@@ -5,7 +5,7 @@ https://elmas3.github.io/mao-seminar/
 
 #メンバー
 魔王
-エルます
+エルマス
 わかば
 
 # ディレクトリ構成
